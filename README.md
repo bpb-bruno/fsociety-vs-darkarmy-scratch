@@ -8,7 +8,7 @@
 
 Um jogo de batalha inspirado na série **Mr. Robot**, desenvolvido inteiramente no **Scratch**.
 
-### 🕹️ Como Jogar
+### Como Jogar
 O objetivo é derrotar a Whiterose usando o Mr. Robot e proteger Elliot Alderson.
 1. Vá para a [Página do Projeto no Scratch](https://scratch.mit.edu/projects/1258039439)
 2. Clique na **bandeira verde** para iniciar o jogo.
@@ -16,11 +16,11 @@ O objetivo é derrotar a Whiterose usando o Mr. Robot e proteger Elliot Alderson
 
 > **Nota:** O jogo está em inglês pois foi desenvolvido para avaliação em um curso americano.
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 * **Scratch** (Block coding)
 * **Pixel Art Assets** personalizados.
 
-### 💻 Destaques do Código
+### Destaques do Código
 * **Lógica de Cooldown:** Implementei uma trava para evitar o "spam" de ataques, garantindo que cada pressão da tecla resulte em apenas um disparo.
 * **Sistema de Vida (HP):** Sistema de monitoramento que utiliza operadores lógicos para garantir o encerramento correto do jogo ao atingir o limite de dano.
 
@@ -34,16 +34,16 @@ O objetivo é derrotar a Whiterose usando o Mr. Robot e proteger Elliot Alderson
 
 A 2D battle game inspired by the aesthetic and narrative of the TV series **Mr. Robot**. Developed as part of a computer science learning path, focusing on core programming concepts.
 
-### 🕹️ How to Run
+### How to Run
 1. Go to the [Scratch Project Page](https://scratch.mit.edu/projects/1258039439)
 2. Click the **Green Flag** to start the intro sequence.
 3. Press **SPACE** to launch the Fsociety mask and defeat the Dark Army.
 
-### 🛠️ Technical Overview
+### Technical Overview
 * **Project Type:** CS50 Harvard - Problem Set 0.
 * **Core Concepts:** Event-driven loops, variable management (state), and collision detection.
 
-### 🧠 Design Decisions and Features
+### Design Decisions and Features
 
 **1. Game Mechanics & Logic**
 To solve the "attack spam" issue, I implemented a cooldown logic using a "wait until not key pressed" structure, ensuring each key press corresponds to exactly one tactical strike.
