@@ -1,4 +1,4 @@
-# Fsociety vs DarkArmy: A Mr. Robot Battle Game
+# Foundations of Programming: A Mr. Robot Battle Game
 
 [🇧🇷 Versão em Português](#-versão-em-português) | [🇺🇸 English Version](#-english-version)
 
@@ -20,7 +20,7 @@ O objetivo é derrotar a Whiterose usando o Mr. Robot e proteger Elliot Alderson
 * **Scratch** (Block coding)
 * **Pixel Art Assets** personalizados.
 
-### Destaques do Código
+### Foco em lógica de programação 
 * **Lógica de Cooldown:** Implementei uma trava para evitar o "spam" de ataques, garantindo que cada pressão da tecla resulte em apenas um disparo.
 * **Sistema de Vida (HP):** Sistema de monitoramento que utiliza operadores lógicos para garantir o encerramento correto do jogo ao atingir o limite de dano.
 
