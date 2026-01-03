@@ -14,7 +14,7 @@ O objetivo é derrotar a Whiterose usando o Mr. Robot e proteger Elliot Alderson
 2. Clique na **bandeira verde** para iniciar o jogo.
 3. Pressione **ESPAÇO** para lançar a máscara da Fsociety e derrotar a Dark Army.
 
-> **Nota:** O jogo está em inglês pois foi desenvolvido para avaliação em um curso americano.
+> **Nota:** O jogo está em inglês pois foi desenvolvido para avaliação em um curso americano, com atividade sobre os fundamentos e lógica de programação.
 
 ### Tecnologias Utilizadas
 * **Scratch** (Block coding)
